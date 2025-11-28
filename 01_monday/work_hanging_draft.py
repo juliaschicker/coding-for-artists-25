@@ -31,6 +31,7 @@ distance_between_works = 20 # the distance between the two works
 #   ------------------------------------------------------------------------
 #
 
+# TODO: Fill in the missing lines of code.
 # Calculate the total length of all the works using numbers_of_works, work_l dist_between_works
 # Fill this in
 # length_works_plus_distances = 
