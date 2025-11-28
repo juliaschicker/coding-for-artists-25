@@ -14,6 +14,23 @@ distance_between_works = 20 # the distance between the two works
 # / divided by
 # * multiply
 
+# Sketch of the situation
+# x -> Nail, has a distance from the top, but is centered in the length
+#                         wall_l
+#   ------------------------------------------------------------------------
+#   |                                                                      |
+#   |                     work_l                                           |
+# w |                     ___________     ___________                      |
+# a |              work_h|     x     |   |     x     |                     |
+# l |                    |           |   |           |                     |
+# l |                    |           |   |           |                     |
+# _ |                    |           |   |           |                     |
+# h |                    |___________|   |___________|                     |
+#   |                                                                      |
+#   |                                                                      |
+#   ------------------------------------------------------------------------
+#
+
 # Calculate the total length of all the works using numbers_of_works, work_l dist_between_works
 # Fill this in
 # length_works_plus_distances = 
